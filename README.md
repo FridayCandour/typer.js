@@ -72,9 +72,9 @@ import t from "Typer.js";
 const a = t("string", "line 1")("typer");
 ```
 
-# uiedbook Documentation
+# Typer.js Documentation
 
-Uiedbook JavaScript library 1.0.57 documentation
+Typer.js JavaScript library 1.0.0 documentation
 
 ```js
 // how to use
