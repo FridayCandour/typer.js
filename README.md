@@ -97,6 +97,8 @@ ell(type)
 
 ## Contributing Typer.js
 
+support me on patreon: https://www.patreon.com/Fridaycandour
+
 If you found a problem, or have a feature request, please open an [issue](https://github.com/FridayCandour/Typer.js/issues) about it.
 
 If you want to make a pull request you should:
