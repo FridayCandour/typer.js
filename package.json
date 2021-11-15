@@ -1,0 +1,24 @@
+{
+  "name": "typer",
+  "version": "1.0.0",
+  "description": "Typing libray for javascript",
+  "main": "typer.js",
+  "scripts": {
+    "test": "npm typer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FridayCandour/typer.js.git"
+  },
+  "keywords": [
+    "Type",
+    "Javascript",
+    "Typescript"
+  ],
+  "author": "Friday Candour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FridayCandour/typer.js/issues"
+  },
+  "homepage": "https://github.com/FridayCandour/typer.js#readme"
+}
