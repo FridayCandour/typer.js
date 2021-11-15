@@ -1,7 +1,7 @@
 
-# Typer.js
+# Typer.js nringing typing to javascript!
 <p align="center">
-  <a href="https://typer.tiangolo.com"><img src="https://typer.tiangolo.com/img/logo-margin/logo-margin-vector.svg" alt="Typer"></a>
+  <a href="https://typer.uiedbook.com"><img src="https://typer.tiangolo.com/img/logo-margin/logo-margin-vector.svg" alt="Typer"></a>
 </p>
 <p align="center">
     <em>Typer, bringing types to vanilla javascript. Easy to code. easy type hints.</em>
@@ -51,32 +51,23 @@ The key features are:
 
 ## installing to your project
 
-you can get uiedbook from [CloudFlare](https://cdnjs.cloudflare.com/ajax/libs/uiedbook/1.0.56/uiedbook.min.js) or [jsDelivr](https://cdn.jsdelivr.net/npm/uiedbook@1.0.56/uiedbook.min.js) and use it like this:
+you can get Typer.js by cloning this repo/
 
-```html
-<script src="https://cdn.jsdelivr.net/npm/uiedbook@1.0.56/uiedbook.min.js" type="module"></script>
-<script>
-  u("#container").style({
-    color: "aqua",
-    backgroundColor: "#ff9800"
-  });
-</script>
-```
 
-uiedbook can be downloaded manually from [npm](http://npmjs.com) as the [`uiedbook`](https://www.npmjs.com/package/uiedbook) package:
+Typer.js can be downloaded manually from [npm](http://npmjs.com) as the [`Typer.js`](https://www.npmjs.com/package/Typer.js) package:
 
 ```sh
-npm install --save uiedbook
+npm install --save Typer.js
 
 or
 
-npm i uiedbook
+npm i Typer.js
 ```
 
 That you can then use like this:
 
 ```js
-import u from "uiedbook";
+import t from "Typer.js";
 
  u(document.body).appendTo("div",
  {
