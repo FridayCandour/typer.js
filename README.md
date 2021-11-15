@@ -69,18 +69,31 @@ That you can then use like this:
 ```js
 import t from "Typer.js";
 
- u(document.body).appendTo("div",
- {
-   id: "new-div"
-  }, 5);
-  // 5 is the number created
+const a = t("string", "line 1")("typer");
 ```
 
 # uiedbook Documentation
 
 Uiedbook JavaScript library 1.0.57 documentation
 
+```js
+// how to use
+// t(type, label)(value);
 
+const a = t("string", "line 1")("typer");
+const b = t("number", "line 2")(5);
+const c = t("string",  "number", "line 3")("typer is 5 letters");
+// console.log(a + " | ",b + " | ",c + " | ");
+const type = {
+	a: "number",
+	b: "string"
+}
+function ell(egg = t("egg", "label")(egg)) {
+	egg = t(type, "ell")(egg)
+	// console.log(egg);
+}
+ell(type)
+```
 
 ## Contributing Typer.js
 
