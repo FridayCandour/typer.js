@@ -16,49 +16,28 @@
 <a href="https://codecov.io/gh/tiangolo/typer" target="_blank">
     <img src="https://img.shields.io/codecov/c/github/tiangolo/typer?color=%2334D058" alt="Coverage">
 </a>
-<a href="https://pypi.org/project/typer" target="_blank">
-    <img src="https://img.shields.io/pypi/v/typer?color=%2334D058&label=pypi%20package" alt="Package version">
-</a>
 </p>
 
 ---
 
-**Documentation**: <a href="https://typer.tiangolo.com" target="_blank">https://typer.tiangolo.com</a>
-
-**Source Code**: <a href="https://github.com/tiangolo/typer" target="_blank">https://github.com/tiangolo/typer</a>
-
----
-
-Typer is a library for building <abbr title="command line interface, programs executed from a terminal">CLI</abbr> applications that users will **love using** and developers will **love creating**. Based on Python 3.6+ type hints.
+Typer is a library that the power of variable types right in your javascript without ant cost to performance, it's designed to fast and valuable during development.
 
 The key features are:
 
-* **Intuitive to write**: Great editor support. <abbr title="also known as auto-complete, autocompletion, IntelliSense">Completion</abbr> everywhere. Less time debugging. Designed to be easy to use and learn. Less time reading docs.
-* **Easy to use**: It's easy to use for the final users. Automatic help, and automatic completion for all shells.
-* **Short**: Minimize code duplication. Multiple features from each parameter declaration. Fewer bugs.
-* **Start simple**: The simplest example adds only 2 lines of code to your app: **1 import, 1 function call**.
-* **Grow large**: Grow in complexity as much as you want, create arbitrarily complex trees of commands and groups of subcommands, with options and arguments.
+* **Intuitive to write**: Less time debugging. Designed to be easy to use and learn..
+* **Easy to use**: It's easy to use for the beginners.
+* **Short**: Multiple features from each parameter declaration. Find pontential bugs.
+* **Start simple**: The simplest example adds only 2 lines of code to your app: **1 import, 1 function call**..
 
-# uiedbook
-
-Uiedbook is a javascript library for building web apps and games.
-
-It has been given birth to in order for
-Developers to quickly create, maintain and publish
-Their products in less time.
-
-uiedbook shines on it's modern design and
-Is holding reasonable standards needed in the future.
+# Typer.js
 
 ## size 
 
-| Size               | uiedbook    |
+| Size               | Typer.js    |
 | ------------------ | ----------- |
-| Unminified         | **36.5 KB** |
-| Minified           | **16 KB**   |
-| Minified & Gzipped | **6 KB**    |
-
-### custom builds are available too!
+| Unminified         | **2 KB** |
+| Minified           | **0.8 KB**   |
+| Minified & Gzipped | **0.06 KB**    |
 
 ## support features
 
@@ -68,8 +47,6 @@ Is holding reasonable standards needed in the future.
 | Supports Modern Browsers | ✔        |
 | Actively Maintained      | ✔        |
 | Namespaced Events        | ✔        |
-| Typed Codebase           | ✔        |
-| TypeScript Types         | ✔        |
 | first class node support | ✔        |
 
 ## installing to your project
@@ -114,17 +91,15 @@ Uiedbook JavaScript library 1.0.57 documentation
 
 
 
-## Contributing uiedbook
+## Contributing Typer.js
 
-If you found a problem, or have a feature request, please open an [issue](https://github.com/FridayCandour/uiedbook/issues) about it.
+If you found a problem, or have a feature request, please open an [issue](https://github.com/FridayCandour/Typer.js/issues) about it.
 
 If you want to make a pull request you should:
 
 1. Clone the repository: `git clone https://github.com/FridayCandour/uiedbook.git`.
 2. Enter the cloned repository: `cd uiedbook`
-3. Install the dependencies: `npm install`.
-4. Automatically recompile Cash whenever a change is made: `npm build`.
-5. Remember to update the readme, if necessary.
+3. Remember to update the readme, if necessary.
 
 Uiedbook.js has been given birth to in order for Developers to quickly create, maintain and publish Their products in less time.
 
