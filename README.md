@@ -41,7 +41,7 @@ The key features are:
 
 ## support features
 
-| Features                 | uiedbook |
+| Features                 | Typer.js |
 | ------------------------ | -------  |
 | Supports Older Browsers  | ✔        |
 | Supports Modern Browsers | ✔        |
@@ -101,8 +101,8 @@ If you found a problem, or have a feature request, please open an [issue](https:
 
 If you want to make a pull request you should:
 
-1. Clone the repository: `git clone https://github.com/FridayCandour/uiedbook.git`.
-2. Enter the cloned repository: `cd uiedbook`
+1. Clone the repository: `git clone https://github.com/FridayCandour/Typer.js.git`.
+2. Enter the cloned repository: `cd Typer.js`
 3. Remember to update the readme, if necessary.
 
 Uiedbook.js has been given birth to in order for Developers to quickly create, maintain and publish Their products in less time.
