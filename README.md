@@ -112,7 +112,7 @@ Uiedbook.js has been given birth to in order for Developers to quickly create, m
 ## Thanks
 
 - **[@suppen](https://github.com/suppen), [@trgwii](https://github.com/trgwii)** and all the contributors who helped making Uiedbook.
-- **[Sauce Labs](https://saucelabs.com)** - The cross-browser testing platform we use for testing our builds in all the supported environments.
+- these guys made life worth living
 
 ## License
 
