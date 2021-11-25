@@ -88,4 +88,4 @@ function ell(egg = t("egg", "label")(egg)) {
 	egg = t(type, "ell")(egg)
 	// console.log(egg);
 }
-ell(type)
+//ell(type)
