@@ -181,6 +181,8 @@ the label is the line number of the code, or a string value you want to use inst
 
 ## Contributing Typer.js
 
+support me on patreon: https://www.patreon.com/Fridaycandour
+
 If you found a problem, or have a feature request, please open an [issue](https://github.com/FridayCandour/Typer.js/issues) about it.
 
 If you want to make a pull request you should:
@@ -194,7 +196,12 @@ Uiedbook.js has been given birth to in order for Developers to quickly create, m
 ## Thanks
 
 - **[@suppen](https://github.com/suppen), [@trgwii](https://github.com/trgwii)** and all the contributors who helped making Uiedbook.
+<<<<<<< HEAD
   these fellow made life worth living
+=======
+- these guys made life worth living
+
+>>>>>>> 1d3cb14096ffe2deabea74c008c6ea4fb1708596
 ## License
 
 MIT © Friday Candour
