@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Typing libray for javascript",
   "main": "typer.js",
+  "type": "module",
   "scripts": {
     "test": "npm typer"
   },
